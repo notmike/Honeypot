@@ -2,6 +2,8 @@
 
 I implemented a [Modern Honey Network](https://github.com/threatstream/mhn) with 6 different honeypots on Ubuntu 14.04 x64 Digitalocean droplets. The honeypots started receiving attacks immediately. After only 48 hours, my honey network had received over 6,000 attacks.
 
+Here is the complete data collection from the honeypots (for your casual reading) : [session.json](https://raw.githubusercontent.com/notmike/Honeypot/master/assets/session.json)
+
 Here is a list of the honeypots I used on my honey network:
 
 + Honeypot 0 - [Dionaea](https://www.edgis-security.org/single-post/dionaea-malware-honeypot)
